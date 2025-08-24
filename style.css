@@ -364,12 +364,12 @@ ul, dl, dt, dd {
     height: 60px;
     text-align: center;
     line-height: 56px;
-    background: #956f40;
+    background: #2574FF;
     color: #fff;
     font-size: 16px;
     border-radius: 12px;
     transition: background .3s ease;
-    font-weight: normal;
+    font-weight: 700;
     border: 2px solid #2f1a00;
 }
   
@@ -516,5 +516,6 @@ footer .footer-info-bottom .txt-box {
 	font-size: 14px;
     opacity: .6;
 }
+
 
 
