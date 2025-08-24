@@ -384,7 +384,7 @@ ul, dl, dt, dd {
 }
 
 .inform_area{
-    background-color: #0e090373;
+    background-color: #00000073;
     border: 2px solid #18100a1f;
     box-sizing: border-box; 
     font-size: 13px; 
@@ -423,19 +423,19 @@ ul, dl, dt, dd {
     height: 52px;
     text-align: center;
     line-height: 46px;
-    background: #956f40;
+    background: #2574FF;
     color: #fff;
     font-size: 14px;
     font-weight: normal;
     border-radius: 12px;
     border: none;
     transition: background .3s ease;
-    border: 2px solid #2f1a00;
+    border: 2px solid #000000;
 }
   
 .con_prom #copyBtn:hover {
     background: #fcd53f;  
-    color: #2F1A00;
+    color: #000000;
     font-weight: 900;
 }
 
@@ -516,6 +516,7 @@ footer .footer-info-bottom .txt-box {
 	font-size: 14px;
     opacity: .6;
 }
+
 
 
 
