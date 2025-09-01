@@ -468,15 +468,9 @@ ul, dl, dt, dd {
 }
 
 /* 업데이트 */
-/* .con_update .h1{
-    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1B58WbY4c945DdsG8UnNOGBQE9Kd9cun7WgPQ4kL4H73v7v5d6mKwo5d3IiSJRNxsGLqVkswb3tgFTvWoMcBfCa9rKSKNncVVM7I91Vfnvcl01QNjlTas2PwpStrC5b4y651JNxlWSX3Vp11FQyLklqgC6a5LTFJbAqMu5XWrzlt0ek8y-0KWnPN1-iI/s16000/update.png");
-} */
-
-/* 업데이트 */
 .con_update .h1{
-    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitXEN384YqVEoEAFUTMePm1VvPYIUfmwp4cRv9yvT6B8ah7yaqDxg1x2YoXwDdTlIYSZ6_x2WjdzbAhgiiQeJyKcRfbP8-F7-hFo5bB6plj6lMzHqFwtATrEyKAx58kDnmSKvXEXRyr4j57GbZ2VWaOe1bA0HZmZp-tMZOSwPUJrly4HyHYCTKN3KXmUE2/s1600/update.png");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1B58WbY4c945DdsG8UnNOGBQE9Kd9cun7WgPQ4kL4H73v7v5d6mKwo5d3IiSJRNxsGLqVkswb3tgFTvWoMcBfCa9rKSKNncVVM7I91Vfnvcl01QNjlTas2PwpStrC5b4y651JNxlWSX3Vp11FQyLklqgC6a5LTFJbAqMu5XWrzlt0ek8y-0KWnPN1-iI/s16000/update.png");
 }
-
 
 /* 보스 시간 */
 .con_bosstime .h1{
@@ -527,6 +521,7 @@ footer .footer-info-bottom .txt-box {
 	font-size: 14px;
     opacity: .6;
 }
+
 
 
 
